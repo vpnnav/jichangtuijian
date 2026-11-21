@@ -125,4 +125,5 @@
 | Hostbrr   |        [官网](https://my.hostbrr.com/order/forms/a/NDc5NA==)        | 大硬盘存储VPS，Hetzner德国机房                          |
 | BuyVM     |        [官网](https://my.hostbrr.com/order/forms/a/NDc5NA==)        | 高性价比VPS，机房覆盖卢森堡/美国多个城市                        |
 | RackBerd  |           [官网](https://my.racknerd.com/aff.php?aff=6211)          | VPS主机，7个美国机房可选，成立于2019年                       |
+| 月兔VPN（Tsuki） |            [官网](https://buddahs-temptation.win/tsuki)             | 公网中转，Hysteria2（UDP）；12元/30天，100G/30天。         |
 
